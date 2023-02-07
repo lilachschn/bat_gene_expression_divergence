@@ -1,8 +1,6 @@
 # bat_gene_expression_divergence
-Explore divergence of gene expression between bats and other species
 
-
-This project is exploring the divergence of gene expression in response to stimulation to dsRNA and in basal level tissues, between two bats species - Rousettus aegyptiacus and Pipistrellus kuhlii and between rousettus and human and mouse. 
+This project explores the divergence of gene expression in response to stimulation to dsRNA and in basal level tissues, between two bats species - Rousettus aegyptiacus and Pipistrellus kuhlii and between rousettus and human and mouse. 
 
 ## Simply run main.py ! ! !
 
